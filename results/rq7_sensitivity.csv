@@ -1,0 +1,4 @@
+criterion,threshold,composite_mean
+C3_Sparsity,2,4.33
+C3_Sparsity,3,4.42
+C3_Sparsity,4,4.48

@@ -1,0 +1,7 @@
+analysis,cronbachs_alpha
+Full (C1–C5),0.408
+Without C1_Immutability,0.366
+Without C2_Actionability,0.428
+Without C3_Sparsity,0.105
+Without C4_Causal,0.356
+Without C5_Diversity,0.441

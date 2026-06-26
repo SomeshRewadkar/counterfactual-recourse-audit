@@ -1,0 +1,11 @@
+dataset,criterion,both_fail_pct,dice_only_pct,wachter_only_pct,neither_fail_pct
+German_Credit,C1_Immutability,22.6,13.8,39.2,24.4
+German_Credit,C2_Actionability,0.5,7.4,3.7,88.5
+German_Credit,C3_Sparsity,0.0,0.0,16.1,83.9
+German_Credit,C4_Causal,0.9,5.1,41.5,52.5
+German_Credit,C5_Diversity,0.0,2.3,5.5,92.2
+Taiwan_Credit,C1_Immutability,20.8,7.9,48.7,22.5
+Taiwan_Credit,C2_Actionability,9.0,20.6,19.7,50.7
+Taiwan_Credit,C3_Sparsity,0.0,0.0,65.1,34.9
+Taiwan_Credit,C4_Causal,4.5,3.9,44.2,47.3
+Taiwan_Credit,C5_Diversity,0.0,0.0,1.7,98.3

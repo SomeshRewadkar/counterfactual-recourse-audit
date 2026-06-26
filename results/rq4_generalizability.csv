@@ -1,0 +1,9 @@
+dataset,model,tool,n,C1_Immutability_rate,C2_Actionability_rate,C3_Sparsity_rate,C4_Causal_rate,C5_Diversity_rate,composite_mean
+German_Credit,RandomForest,DiCE,142,100.0,100.0,100.0,100.0,100.0,5.0
+German_Credit,RandomForest,Wachter,3,100.0,100.0,100.0,100.0,0.0,4.0
+German_Credit,GradientBoosting,DiCE,171,100.0,100.0,100.0,100.0,100.0,5.0
+German_Credit,GradientBoosting,Wachter,2,100.0,100.0,100.0,100.0,0.0,4.0
+Taiwan_Credit,RandomForest,DiCE,223,100.0,99.6,100.0,100.0,100.0,5.0
+Taiwan_Credit,RandomForest,Wachter,10,100.0,100.0,100.0,100.0,0.0,4.0
+Taiwan_Credit,GradientBoosting,DiCE,228,100.0,100.0,100.0,100.0,98.2,4.98
+Taiwan_Credit,GradientBoosting,Wachter,7,100.0,100.0,100.0,100.0,28.6,4.29

@@ -1,0 +1,17 @@
+dataset,tool,phase,compliance_mean,cost_mean,cost_std,cost_immutable_mean,cost_actionable_mean,cost_immutable_pct
+German_Credit,DiCE,1,89.9,0.688,0.381,0.17,0.518,24.7
+German_Credit,DiCE,2,95.1,0.704,0.397,0.0,0.704,0.0
+German_Credit,DiCE,3,97.8,0.667,0.38,0.0,0.667,0.0
+German_Credit,DiCE,4,100.0,0.689,0.407,0.0,0.689,0.0
+German_Credit,Wachter,1,74.0,0.342,0.297,0.089,0.253,26.1
+German_Credit,Wachter,2,87.8,0.279,0.233,0.0,0.279,0.0
+German_Credit,Wachter,3,89.2,0.281,0.236,0.0,0.281,0.0
+German_Credit,Wachter,4,80.0,0.103,0.047,0.0,0.103,0.0
+Taiwan_Credit,DiCE,1,86.5,0.686,0.363,0.146,0.54,21.3
+Taiwan_Credit,DiCE,2,91.8,0.654,0.355,0.0,0.654,0.0
+Taiwan_Credit,DiCE,3,97.2,0.593,0.346,0.0,0.593,0.0
+Taiwan_Credit,DiCE,4,99.8,0.571,0.338,0.0,0.571,0.0
+Taiwan_Credit,Wachter,1,57.2,0.492,0.305,0.125,0.367,25.3
+Taiwan_Credit,Wachter,2,76.8,0.399,0.227,0.0,0.399,0.0
+Taiwan_Credit,Wachter,3,84.6,0.333,0.17,0.0,0.333,0.0
+Taiwan_Credit,Wachter,4,82.4,0.174,0.07,0.0,0.174,0.0
